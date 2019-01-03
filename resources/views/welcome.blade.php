@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Styde te enseña a usar git.
                 </div>
 
                 <div class="links">
