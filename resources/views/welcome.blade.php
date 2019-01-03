@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <div class="panel-body">
+                 <a href="https://styde.net">Styde.net</a>
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
